@@ -22,7 +22,30 @@ void ExibiOpcoesDoMenu()
     Console.WriteLine("Digite -1 para sair");
 
     Console.Write("\nDigite sua opção: ");
-    Console.ReadLine();
+    string opcaoEscolhida = Console.ReadLine()!;
+    int opcaoEscolhidaNumerica = int.Parse(opcaoEscolhida);
+
+    switch (opcaoEscolhidaNumerica)
+    {
+        case 1:
+            Console.WriteLine("Você escolheu a opção: " + opcaoEscolhidaNumerica);
+            break;
+        case 2:
+            Console.WriteLine("Você escolheu a opção: " + opcaoEscolhidaNumerica);
+            break;
+        case 3:
+            Console.WriteLine("Você escolheu a opção: " + opcaoEscolhidaNumerica);
+            break;
+        case 4:
+            Console.WriteLine("Você escolheu a opção: " + opcaoEscolhidaNumerica);
+            break;
+        case -1:
+            Console.WriteLine("Encerrando o programa");
+            break;
+        default:
+            Console.WriteLine("Opção inválida");
+            break;
+    }
 }
 
 
