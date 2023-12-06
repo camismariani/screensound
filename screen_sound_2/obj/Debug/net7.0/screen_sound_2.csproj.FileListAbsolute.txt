@@ -1,0 +1,15 @@
+/Users/camilamariani/Documents/pessoal/screen_sound_2/screen_sound_2/bin/Debug/net7.0/screen_sound_2
+/Users/camilamariani/Documents/pessoal/screen_sound_2/screen_sound_2/bin/Debug/net7.0/screen_sound_2.deps.json
+/Users/camilamariani/Documents/pessoal/screen_sound_2/screen_sound_2/bin/Debug/net7.0/screen_sound_2.runtimeconfig.json
+/Users/camilamariani/Documents/pessoal/screen_sound_2/screen_sound_2/bin/Debug/net7.0/screen_sound_2.dll
+/Users/camilamariani/Documents/pessoal/screen_sound_2/screen_sound_2/bin/Debug/net7.0/screen_sound_2.pdb
+/Users/camilamariani/Documents/pessoal/screen_sound_2/screen_sound_2/obj/Debug/net7.0/screen_sound_2.csproj.AssemblyReference.cache
+/Users/camilamariani/Documents/pessoal/screen_sound_2/screen_sound_2/obj/Debug/net7.0/screen_sound_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camilamariani/Documents/pessoal/screen_sound_2/screen_sound_2/obj/Debug/net7.0/screen_sound_2.AssemblyInfoInputs.cache
+/Users/camilamariani/Documents/pessoal/screen_sound_2/screen_sound_2/obj/Debug/net7.0/screen_sound_2.AssemblyInfo.cs
+/Users/camilamariani/Documents/pessoal/screen_sound_2/screen_sound_2/obj/Debug/net7.0/screen_sound_2.csproj.CoreCompileInputs.cache
+/Users/camilamariani/Documents/pessoal/screen_sound_2/screen_sound_2/obj/Debug/net7.0/screen_sound_2.dll
+/Users/camilamariani/Documents/pessoal/screen_sound_2/screen_sound_2/obj/Debug/net7.0/refint/screen_sound_2.dll
+/Users/camilamariani/Documents/pessoal/screen_sound_2/screen_sound_2/obj/Debug/net7.0/screen_sound_2.pdb
+/Users/camilamariani/Documents/pessoal/screen_sound_2/screen_sound_2/obj/Debug/net7.0/screen_sound_2.genruntimeconfig.cache
+/Users/camilamariani/Documents/pessoal/screen_sound_2/screen_sound_2/obj/Debug/net7.0/ref/screen_sound_2.dll
