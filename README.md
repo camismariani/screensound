@@ -14,9 +14,9 @@ https://cursos.alura.com.br/formacao-c-sharp-orientacao-objetos
 
 ## Parte 1: primero programa em C#
 - Instalação Visual Studio
-- Uso de StackLayout, Grid, ListView, TableView e Label
-- Padrão MVVM (Model-View-ViewModel)
-- Uso de DisplayAlert para exibir mensagens
+- Criar o primeiro programa em C# e entender conceitos da linguaguem;
+- Criar funções para exibir o menu principal e registrar as bandas;
+- Fazer avaliação e calcular a média com base nos dados registrado.
 
 #### Notas gerais
 - C# é linguagem fortemente tipada, sempre é preciso declarar o tipo da variável criada;
@@ -27,5 +27,6 @@ https://cursos.alura.com.br/formacao-c-sharp-orientacao-objetos
 - Console.Write() para escrever mensagens sem quebra de linha
 - Console.ReadLine() para ler valores;
 - int.Parse() para converter string para inteiro;
-- 
+- C# é case sensitive, ScreenSound é diferente de Screensound;
+- Interpolação de string: Inicia a string com cifrão e envolve a variável que queremos referenciar com chaves, exemplo: Console.WriteLine($"A banda {nomeDaBanda} foi registrada com sucesso!");
 
